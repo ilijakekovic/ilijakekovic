@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Ilija kekovic. I am an 18-year-old from Serbia who started a new journey when I moved to Moncton in 2021. While my educational background may need improvement, my dedication to mastering web and mobile app development speaks volumes. I am currently enrolled at NBCC, where I am sharpening my skills in programming languages like C#, JavaScript, HTML, CSS and SQL. Every Line of code I write is a step toward building a solid foundation for my future in the tech industry.
+Hello, my name is Ilija kekovic. I am an 19-year-old from Serbia who started a new journey when I moved to Moncton in 2021. While my educational background may need improvement, my dedication to mastering web and mobile app development speaks volumes. I am currently enrolled at NBCC, where I am sharpening my skills in programming languages like C#, JavaScript, HTML, CSS and SQL. Every Line of code I write is a step toward building a solid foundation for my future in the tech industry.
 
 
 ## 🌐 Socials:
